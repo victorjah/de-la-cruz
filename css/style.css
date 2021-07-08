@@ -1,0 +1,38 @@
+
+user agent stylesheet
+div {
+    display: block;
+}
+.entry-header, .site-content {
+    word-wrap: break-word;
+}
+body {
+    line-height: 1.5;
+}
+body, button, input, select, textarea {
+    font-family: "Catamaran", sans-serif;
+}
+body {
+    background-color: #f7f8f9;
+    color: #222222;
+}
+body, button, input, select, textarea {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-weight: 400;
+    text-transform: none;
+    font-size: 17px;
+    line-height: 1.5;
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
